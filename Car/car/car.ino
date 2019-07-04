@@ -6,7 +6,7 @@ void setup()
     digitalWrite(i,LOW);
   }
       
-  Serail.begin(9600)
+  Serail.begin(9600);
   
 }
 
